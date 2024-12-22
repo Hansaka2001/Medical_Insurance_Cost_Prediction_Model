@@ -23,11 +23,6 @@ The final predictive model uses machine learning algorithms to estimate insuranc
     cd Medical_Insurance_Cost_Prediction_Model
     ```
 
-2. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Open the Jupyter Notebook:
